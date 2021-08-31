@@ -1,3 +1,0 @@
-#include <sys/ioctl.h>
-
-int loctl(int fd, int cmd, /*int arg*/ ...);
